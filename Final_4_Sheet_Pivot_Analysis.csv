@@ -1,0 +1,7 @@
+Scenario,Default_MEV,Normalized_MEV
+A,10,8
+A,12,9
+B,14,11
+B,13,10
+C,9,7
+C,11,8
